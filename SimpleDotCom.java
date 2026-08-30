@@ -14,7 +14,7 @@ public class SimpleDotCom{
 	numOfGuesses++;
 	if(result.equals("kill")){
 	isAlive=false;
-	System.out.println("You took"+numOfGuesses+"guesses");
+	System.out.println("You took "+numOfGuesses+" guesses");
 	}
 	}
 	}
