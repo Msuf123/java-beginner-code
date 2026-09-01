@@ -2,6 +2,7 @@ public class SimpleDotCom{
 	
 	public static void main(String[] args){
 	int numOfGuesses=0;
+		ArrayString<int> my=new ArrayString<int>;
 	GameHelper helper=new GameHelper();
 	SimpleStartup theStartup=new SimpleStartup();
 	int randomNum=(int)(Math.random()*5);
